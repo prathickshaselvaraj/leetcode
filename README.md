@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/prathickshaselvaraj/leetcode/tree/master/0011-container-with-most-water) |
 | [0289-game-of-life](https://github.com/prathickshaselvaraj/leetcode/tree/master/0289-game-of-life) |
 | [0565-array-nesting](https://github.com/prathickshaselvaraj/leetcode/tree/master/0565-array-nesting) |
+| [0661-image-smoother](https://github.com/prathickshaselvaraj/leetcode/tree/master/0661-image-smoother) |
 | [1583-count-unhappy-friends](https://github.com/prathickshaselvaraj/leetcode/tree/master/1583-count-unhappy-friends) |
 | [1929-concatenation-of-array](https://github.com/prathickshaselvaraj/leetcode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -74,4 +75,5 @@
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/prathickshaselvaraj/leetcode/tree/master/0289-game-of-life) |
+| [0661-image-smoother](https://github.com/prathickshaselvaraj/leetcode/tree/master/0661-image-smoother) |
 <!---LeetCode Topics End-->
