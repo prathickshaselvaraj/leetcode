@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/prathickshaselvaraj/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/prathickshaselvaraj/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/prathickshaselvaraj/leetcode/tree/master/0011-container-with-most-water) |
+| [0565-array-nesting](https://github.com/prathickshaselvaraj/leetcode/tree/master/0565-array-nesting) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,4 +57,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prathickshaselvaraj/leetcode/tree/master/0011-container-with-most-water) |
+## Depth-First Search
+|  |
+| ------- |
+| [0565-array-nesting](https://github.com/prathickshaselvaraj/leetcode/tree/master/0565-array-nesting) |
 <!---LeetCode Topics End-->
