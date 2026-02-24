@@ -14,12 +14,14 @@
 | [1314-matrix-block-sum](https://github.com/prathickshaselvaraj/leetcode/tree/master/1314-matrix-block-sum) |
 | [1583-count-unhappy-friends](https://github.com/prathickshaselvaraj/leetcode/tree/master/1583-count-unhappy-friends) |
 | [1929-concatenation-of-array](https://github.com/prathickshaselvaraj/leetcode/tree/master/1929-concatenation-of-array) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/prathickshaselvaraj/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prathickshaselvaraj/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prathickshaselvaraj/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/prathickshaselvaraj/leetcode/tree/master/0012-integer-to-roman) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/prathickshaselvaraj/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Linked List
 |  |
 | ------- |
@@ -83,6 +85,7 @@
 | [0289-game-of-life](https://github.com/prathickshaselvaraj/leetcode/tree/master/0289-game-of-life) |
 | [0661-image-smoother](https://github.com/prathickshaselvaraj/leetcode/tree/master/0661-image-smoother) |
 | [1314-matrix-block-sum](https://github.com/prathickshaselvaraj/leetcode/tree/master/1314-matrix-block-sum) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/prathickshaselvaraj/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
