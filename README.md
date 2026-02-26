@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/prathickshaselvaraj/leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/prathickshaselvaraj/leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/prathickshaselvaraj/leetcode/tree/master/0042-trapping-rain-water) |
+| [0068-text-justification](https://github.com/prathickshaselvaraj/leetcode/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/prathickshaselvaraj/leetcode/tree/master/0289-game-of-life) |
 | [0565-array-nesting](https://github.com/prathickshaselvaraj/leetcode/tree/master/0565-array-nesting) |
 | [0661-image-smoother](https://github.com/prathickshaselvaraj/leetcode/tree/master/0661-image-smoother) |
@@ -46,6 +47,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/prathickshaselvaraj/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/prathickshaselvaraj/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/prathickshaselvaraj/leetcode/tree/master/0012-integer-to-roman) |
+| [0068-text-justification](https://github.com/prathickshaselvaraj/leetcode/tree/master/0068-text-justification) |
 | [0709-to-lower-case](https://github.com/prathickshaselvaraj/leetcode/tree/master/0709-to-lower-case) |
 ## Sliding Window
 |  |
@@ -82,6 +84,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/prathickshaselvaraj/leetcode/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/prathickshaselvaraj/leetcode/tree/master/0289-game-of-life) |
 | [1583-count-unhappy-friends](https://github.com/prathickshaselvaraj/leetcode/tree/master/1583-count-unhappy-friends) |
 | [1929-concatenation-of-array](https://github.com/prathickshaselvaraj/leetcode/tree/master/1929-concatenation-of-array) |
