@@ -13,6 +13,7 @@
 | [0068-text-justification](https://github.com/prathickshaselvaraj/leetcode/tree/master/0068-text-justification) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prathickshaselvaraj/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/prathickshaselvaraj/leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/prathickshaselvaraj/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0289-game-of-life](https://github.com/prathickshaselvaraj/leetcode/tree/master/0289-game-of-life) |
 | [0565-array-nesting](https://github.com/prathickshaselvaraj/leetcode/tree/master/0565-array-nesting) |
 | [0661-image-smoother](https://github.com/prathickshaselvaraj/leetcode/tree/master/0661-image-smoother) |
@@ -28,6 +29,7 @@
 | [0012-integer-to-roman](https://github.com/prathickshaselvaraj/leetcode/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/prathickshaselvaraj/leetcode/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/prathickshaselvaraj/leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/prathickshaselvaraj/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/prathickshaselvaraj/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Linked List
 |  |
@@ -57,6 +59,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prathickshaselvaraj/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/prathickshaselvaraj/leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Binary Search
 |  |
 | ------- |
