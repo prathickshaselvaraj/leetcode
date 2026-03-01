@@ -5,14 +5,11 @@ class Solution(object):
         :type k: int
         :rtype: bool
         """
-        window=set()
+        last={}
         for i in range(len(nums)):
-            if nums[i] in window:
+            if nums[i] in last and i-last[nums[i]]<=k:
                 return True
-            window.add(nums[i])
-            
-            if len(window)>k:
-              window.remove(nums[i-k])
+            last[nums[i]]=i
         return False
 
 
