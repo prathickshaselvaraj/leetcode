@@ -17,6 +17,7 @@
 | [0289-game-of-life](https://github.com/prathickshaselvaraj/leetcode/tree/master/0289-game-of-life) |
 | [0565-array-nesting](https://github.com/prathickshaselvaraj/leetcode/tree/master/0565-array-nesting) |
 | [0661-image-smoother](https://github.com/prathickshaselvaraj/leetcode/tree/master/0661-image-smoother) |
+| [0724-find-pivot-index](https://github.com/prathickshaselvaraj/leetcode/tree/master/0724-find-pivot-index) |
 | [1314-matrix-block-sum](https://github.com/prathickshaselvaraj/leetcode/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/prathickshaselvaraj/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1583-count-unhappy-friends](https://github.com/prathickshaselvaraj/leetcode/tree/master/1583-count-unhappy-friends) |
@@ -109,6 +110,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/prathickshaselvaraj/leetcode/tree/master/0724-find-pivot-index) |
 | [1314-matrix-block-sum](https://github.com/prathickshaselvaraj/leetcode/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/prathickshaselvaraj/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Stack
