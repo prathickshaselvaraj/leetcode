@@ -46,6 +46,7 @@
 | [0007-reverse-integer](https://github.com/prathickshaselvaraj/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/prathickshaselvaraj/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/prathickshaselvaraj/leetcode/tree/master/0012-integer-to-roman) |
+| [0171-excel-sheet-column-number](https://github.com/prathickshaselvaraj/leetcode/tree/master/0171-excel-sheet-column-number) |
 ## Recursion
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [0005-longest-palindromic-substring](https://github.com/prathickshaselvaraj/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/prathickshaselvaraj/leetcode/tree/master/0012-integer-to-roman) |
 | [0068-text-justification](https://github.com/prathickshaselvaraj/leetcode/tree/master/0068-text-justification) |
+| [0171-excel-sheet-column-number](https://github.com/prathickshaselvaraj/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0520-detect-capital](https://github.com/prathickshaselvaraj/leetcode/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/prathickshaselvaraj/leetcode/tree/master/0709-to-lower-case) |
 ## Sliding Window
