@@ -21,6 +21,7 @@
 | [0661-image-smoother](https://github.com/prathickshaselvaraj/leetcode/tree/master/0661-image-smoother) |
 | [0724-find-pivot-index](https://github.com/prathickshaselvaraj/leetcode/tree/master/0724-find-pivot-index) |
 | [1314-matrix-block-sum](https://github.com/prathickshaselvaraj/leetcode/tree/master/1314-matrix-block-sum) |
+| [1470-shuffle-the-array](https://github.com/prathickshaselvaraj/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/prathickshaselvaraj/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1583-count-unhappy-friends](https://github.com/prathickshaselvaraj/leetcode/tree/master/1583-count-unhappy-friends) |
 | [1929-concatenation-of-array](https://github.com/prathickshaselvaraj/leetcode/tree/master/1929-concatenation-of-array) |
