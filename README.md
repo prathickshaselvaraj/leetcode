@@ -42,6 +42,7 @@
 | [0219-contains-duplicate-ii](https://github.com/prathickshaselvaraj/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/prathickshaselvaraj/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1207-unique-number-of-occurrences](https://github.com/prathickshaselvaraj/leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/prathickshaselvaraj/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/prathickshaselvaraj/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Linked List
 |  |
@@ -71,6 +72,7 @@
 | [0520-detect-capital](https://github.com/prathickshaselvaraj/leetcode/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/prathickshaselvaraj/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/prathickshaselvaraj/leetcode/tree/master/0709-to-lower-case) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/prathickshaselvaraj/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sliding Window
 |  |
 | ------- |
