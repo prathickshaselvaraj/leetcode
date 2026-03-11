@@ -17,6 +17,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prathickshaselvaraj/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/prathickshaselvaraj/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/prathickshaselvaraj/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/prathickshaselvaraj/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/prathickshaselvaraj/leetcode/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/prathickshaselvaraj/leetcode/tree/master/0289-game-of-life) |
 | [0349-intersection-of-two-arrays](https://github.com/prathickshaselvaraj/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -40,6 +41,7 @@
 | [0202-happy-number](https://github.com/prathickshaselvaraj/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/prathickshaselvaraj/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/prathickshaselvaraj/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/prathickshaselvaraj/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/prathickshaselvaraj/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1207-unique-number-of-occurrences](https://github.com/prathickshaselvaraj/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/prathickshaselvaraj/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -57,6 +59,7 @@
 | [0012-integer-to-roman](https://github.com/prathickshaselvaraj/leetcode/tree/master/0012-integer-to-roman) |
 | [0171-excel-sheet-column-number](https://github.com/prathickshaselvaraj/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/prathickshaselvaraj/leetcode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/prathickshaselvaraj/leetcode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -84,6 +87,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/prathickshaselvaraj/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/prathickshaselvaraj/leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prathickshaselvaraj/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/prathickshaselvaraj/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/prathickshaselvaraj/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
@@ -147,10 +151,12 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/prathickshaselvaraj/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/prathickshaselvaraj/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/prathickshaselvaraj/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/prathickshaselvaraj/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/prathickshaselvaraj/leetcode/tree/master/0137-single-number-ii) |
+| [0268-missing-number](https://github.com/prathickshaselvaraj/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
