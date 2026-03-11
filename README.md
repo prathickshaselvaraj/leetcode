@@ -34,6 +34,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/prathickshaselvaraj/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/prathickshaselvaraj/leetcode/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/prathickshaselvaraj/leetcode/tree/master/0036-valid-sudoku) |
+| [0202-happy-number](https://github.com/prathickshaselvaraj/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/prathickshaselvaraj/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/prathickshaselvaraj/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/prathickshaselvaraj/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -50,6 +51,7 @@
 | [0009-palindrome-number](https://github.com/prathickshaselvaraj/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/prathickshaselvaraj/leetcode/tree/master/0012-integer-to-roman) |
 | [0171-excel-sheet-column-number](https://github.com/prathickshaselvaraj/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/prathickshaselvaraj/leetcode/tree/master/0202-happy-number) |
 ## Recursion
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 | [0027-remove-element](https://github.com/prathickshaselvaraj/leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/prathickshaselvaraj/leetcode/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prathickshaselvaraj/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/prathickshaselvaraj/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/prathickshaselvaraj/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/prathickshaselvaraj/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
