@@ -28,6 +28,7 @@
 | [0661-image-smoother](https://github.com/prathickshaselvaraj/leetcode/tree/master/0661-image-smoother) |
 | [0724-find-pivot-index](https://github.com/prathickshaselvaraj/leetcode/tree/master/0724-find-pivot-index) |
 | [1207-unique-number-of-occurrences](https://github.com/prathickshaselvaraj/leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1248-count-number-of-nice-subarrays](https://github.com/prathickshaselvaraj/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1314-matrix-block-sum](https://github.com/prathickshaselvaraj/leetcode/tree/master/1314-matrix-block-sum) |
 | [1470-shuffle-the-array](https://github.com/prathickshaselvaraj/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/prathickshaselvaraj/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -51,6 +52,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/prathickshaselvaraj/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/prathickshaselvaraj/leetcode/tree/master/0500-keyboard-row) |
 | [1207-unique-number-of-occurrences](https://github.com/prathickshaselvaraj/leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1248-count-number-of-nice-subarrays](https://github.com/prathickshaselvaraj/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/prathickshaselvaraj/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/prathickshaselvaraj/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Linked List
@@ -67,6 +69,7 @@
 | [0171-excel-sheet-column-number](https://github.com/prathickshaselvaraj/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/prathickshaselvaraj/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/prathickshaselvaraj/leetcode/tree/master/0268-missing-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/prathickshaselvaraj/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Recursion
 |  |
 | ------- |
@@ -92,6 +95,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/prathickshaselvaraj/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/prathickshaselvaraj/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/prathickshaselvaraj/leetcode/tree/master/0239-sliding-window-maximum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/prathickshaselvaraj/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -150,6 +154,7 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/prathickshaselvaraj/leetcode/tree/master/0724-find-pivot-index) |
+| [1248-count-number-of-nice-subarrays](https://github.com/prathickshaselvaraj/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1314-matrix-block-sum](https://github.com/prathickshaselvaraj/leetcode/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/prathickshaselvaraj/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Stack
