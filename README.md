@@ -42,6 +42,7 @@
 | [0012-integer-to-roman](https://github.com/prathickshaselvaraj/leetcode/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/prathickshaselvaraj/leetcode/tree/master/0036-valid-sudoku) |
 | [0202-happy-number](https://github.com/prathickshaselvaraj/leetcode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/prathickshaselvaraj/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/prathickshaselvaraj/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/prathickshaselvaraj/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/prathickshaselvaraj/leetcode/tree/master/0268-missing-number) |
@@ -78,6 +79,7 @@
 | [0012-integer-to-roman](https://github.com/prathickshaselvaraj/leetcode/tree/master/0012-integer-to-roman) |
 | [0068-text-justification](https://github.com/prathickshaselvaraj/leetcode/tree/master/0068-text-justification) |
 | [0171-excel-sheet-column-number](https://github.com/prathickshaselvaraj/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/prathickshaselvaraj/leetcode/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/prathickshaselvaraj/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/prathickshaselvaraj/leetcode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/prathickshaselvaraj/leetcode/tree/master/0520-detect-capital) |
