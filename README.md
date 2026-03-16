@@ -26,6 +26,7 @@
 | [0289-game-of-life](https://github.com/prathickshaselvaraj/leetcode/tree/master/0289-game-of-life) |
 | [0349-intersection-of-two-arrays](https://github.com/prathickshaselvaraj/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prathickshaselvaraj/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0495-teemo-attacking](https://github.com/prathickshaselvaraj/leetcode/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/prathickshaselvaraj/leetcode/tree/master/0500-keyboard-row) |
 | [0565-array-nesting](https://github.com/prathickshaselvaraj/leetcode/tree/master/0565-array-nesting) |
 | [0661-image-smoother](https://github.com/prathickshaselvaraj/leetcode/tree/master/0661-image-smoother) |
@@ -145,6 +146,7 @@
 | ------- |
 | [0068-text-justification](https://github.com/prathickshaselvaraj/leetcode/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/prathickshaselvaraj/leetcode/tree/master/0289-game-of-life) |
+| [0495-teemo-attacking](https://github.com/prathickshaselvaraj/leetcode/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/prathickshaselvaraj/leetcode/tree/master/0657-robot-return-to-origin) |
 | [1583-count-unhappy-friends](https://github.com/prathickshaselvaraj/leetcode/tree/master/1583-count-unhappy-friends) |
 | [1929-concatenation-of-array](https://github.com/prathickshaselvaraj/leetcode/tree/master/1929-concatenation-of-array) |
