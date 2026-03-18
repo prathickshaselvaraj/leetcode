@@ -75,6 +75,7 @@
 | [0171-excel-sheet-column-number](https://github.com/prathickshaselvaraj/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/prathickshaselvaraj/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/prathickshaselvaraj/leetcode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/prathickshaselvaraj/leetcode/tree/master/0412-fizz-buzz) |
 | [1248-count-number-of-nice-subarrays](https://github.com/prathickshaselvaraj/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Recursion
 |  |
@@ -89,6 +90,7 @@
 | [0068-text-justification](https://github.com/prathickshaselvaraj/leetcode/tree/master/0068-text-justification) |
 | [0171-excel-sheet-column-number](https://github.com/prathickshaselvaraj/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/prathickshaselvaraj/leetcode/tree/master/0205-isomorphic-strings) |
+| [0412-fizz-buzz](https://github.com/prathickshaselvaraj/leetcode/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/prathickshaselvaraj/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/prathickshaselvaraj/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/prathickshaselvaraj/leetcode/tree/master/0500-keyboard-row) |
@@ -146,6 +148,7 @@
 | ------- |
 | [0068-text-justification](https://github.com/prathickshaselvaraj/leetcode/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/prathickshaselvaraj/leetcode/tree/master/0289-game-of-life) |
+| [0412-fizz-buzz](https://github.com/prathickshaselvaraj/leetcode/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/prathickshaselvaraj/leetcode/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/prathickshaselvaraj/leetcode/tree/master/0657-robot-return-to-origin) |
 | [1583-count-unhappy-friends](https://github.com/prathickshaselvaraj/leetcode/tree/master/1583-count-unhappy-friends) |
