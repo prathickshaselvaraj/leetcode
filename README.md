@@ -76,6 +76,7 @@
 | [0202-happy-number](https://github.com/prathickshaselvaraj/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/prathickshaselvaraj/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/prathickshaselvaraj/leetcode/tree/master/0412-fizz-buzz) |
+| [0504-base-7](https://github.com/prathickshaselvaraj/leetcode/tree/master/0504-base-7) |
 | [1248-count-number-of-nice-subarrays](https://github.com/prathickshaselvaraj/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Recursion
 |  |
@@ -94,6 +95,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/prathickshaselvaraj/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/prathickshaselvaraj/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/prathickshaselvaraj/leetcode/tree/master/0500-keyboard-row) |
+| [0504-base-7](https://github.com/prathickshaselvaraj/leetcode/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/prathickshaselvaraj/leetcode/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/prathickshaselvaraj/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/prathickshaselvaraj/leetcode/tree/master/0709-to-lower-case) |
