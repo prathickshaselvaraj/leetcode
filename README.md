@@ -33,6 +33,7 @@
 | [0724-find-pivot-index](https://github.com/prathickshaselvaraj/leetcode/tree/master/0724-find-pivot-index) |
 | [1207-unique-number-of-occurrences](https://github.com/prathickshaselvaraj/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/prathickshaselvaraj/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/prathickshaselvaraj/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1314-matrix-block-sum](https://github.com/prathickshaselvaraj/leetcode/tree/master/1314-matrix-block-sum) |
 | [1470-shuffle-the-array](https://github.com/prathickshaselvaraj/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/prathickshaselvaraj/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -79,6 +80,7 @@
 | [0412-fizz-buzz](https://github.com/prathickshaselvaraj/leetcode/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/prathickshaselvaraj/leetcode/tree/master/0504-base-7) |
 | [1248-count-number-of-nice-subarrays](https://github.com/prathickshaselvaraj/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/prathickshaselvaraj/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Recursion
 |  |
 | ------- |
