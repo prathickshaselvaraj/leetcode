@@ -37,6 +37,7 @@
 | [1470-shuffle-the-array](https://github.com/prathickshaselvaraj/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/prathickshaselvaraj/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1583-count-unhappy-friends](https://github.com/prathickshaselvaraj/leetcode/tree/master/1583-count-unhappy-friends) |
+| [1920-build-array-from-permutation](https://github.com/prathickshaselvaraj/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/prathickshaselvaraj/leetcode/tree/master/1929-concatenation-of-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/prathickshaselvaraj/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Hash Table
@@ -154,6 +155,7 @@
 | [0495-teemo-attacking](https://github.com/prathickshaselvaraj/leetcode/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/prathickshaselvaraj/leetcode/tree/master/0657-robot-return-to-origin) |
 | [1583-count-unhappy-friends](https://github.com/prathickshaselvaraj/leetcode/tree/master/1583-count-unhappy-friends) |
+| [1920-build-array-from-permutation](https://github.com/prathickshaselvaraj/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/prathickshaselvaraj/leetcode/tree/master/1929-concatenation-of-array) |
 ## Matrix
 |  |
