@@ -232,4 +232,8 @@
 | ------- |
 | [0046-permutations](https://github.com/prathickshaselvaraj/leetcode/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/prathickshaselvaraj/leetcode/tree/master/0052-n-queens-ii) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/prathickshaselvaraj/leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
