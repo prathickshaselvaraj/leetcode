@@ -101,6 +101,7 @@
 | [0500-keyboard-row](https://github.com/prathickshaselvaraj/leetcode/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/prathickshaselvaraj/leetcode/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/prathickshaselvaraj/leetcode/tree/master/0520-detect-capital) |
+| [0551-student-attendance-record-i](https://github.com/prathickshaselvaraj/leetcode/tree/master/0551-student-attendance-record-i) |
 | [0657-robot-return-to-origin](https://github.com/prathickshaselvaraj/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/prathickshaselvaraj/leetcode/tree/master/0709-to-lower-case) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/prathickshaselvaraj/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
