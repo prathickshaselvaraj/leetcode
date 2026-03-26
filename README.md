@@ -119,6 +119,7 @@
 | [0035-search-insert-position](https://github.com/prathickshaselvaraj/leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prathickshaselvaraj/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/prathickshaselvaraj/leetcode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/prathickshaselvaraj/leetcode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/prathickshaselvaraj/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prathickshaselvaraj/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
@@ -238,4 +239,8 @@
 | ------- |
 | [0176-second-highest-salary](https://github.com/prathickshaselvaraj/leetcode/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/prathickshaselvaraj/leetcode/tree/master/0177-nth-highest-salary) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/prathickshaselvaraj/leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
