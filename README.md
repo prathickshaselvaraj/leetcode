@@ -29,6 +29,7 @@
 | [0495-teemo-attacking](https://github.com/prathickshaselvaraj/leetcode/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/prathickshaselvaraj/leetcode/tree/master/0500-keyboard-row) |
 | [0565-array-nesting](https://github.com/prathickshaselvaraj/leetcode/tree/master/0565-array-nesting) |
+| [0575-distribute-candies](https://github.com/prathickshaselvaraj/leetcode/tree/master/0575-distribute-candies) |
 | [0661-image-smoother](https://github.com/prathickshaselvaraj/leetcode/tree/master/0661-image-smoother) |
 | [0724-find-pivot-index](https://github.com/prathickshaselvaraj/leetcode/tree/master/0724-find-pivot-index) |
 | [1207-unique-number-of-occurrences](https://github.com/prathickshaselvaraj/leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -60,6 +61,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/prathickshaselvaraj/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/prathickshaselvaraj/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/prathickshaselvaraj/leetcode/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/prathickshaselvaraj/leetcode/tree/master/0575-distribute-candies) |
 | [1207-unique-number-of-occurrences](https://github.com/prathickshaselvaraj/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/prathickshaselvaraj/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/prathickshaselvaraj/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
