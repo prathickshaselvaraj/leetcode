@@ -13,6 +13,7 @@
 | [0041-first-missing-positive](https://github.com/prathickshaselvaraj/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/prathickshaselvaraj/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/prathickshaselvaraj/leetcode/tree/master/0046-permutations) |
+| [0055-jump-game](https://github.com/prathickshaselvaraj/leetcode/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/prathickshaselvaraj/leetcode/tree/master/0068-text-justification) |
 | [0128-longest-consecutive-sequence](https://github.com/prathickshaselvaraj/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/prathickshaselvaraj/leetcode/tree/master/0136-single-number) |
@@ -145,10 +146,12 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prathickshaselvaraj/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/prathickshaselvaraj/leetcode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/prathickshaselvaraj/leetcode/tree/master/0055-jump-game) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prathickshaselvaraj/leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/prathickshaselvaraj/leetcode/tree/master/0055-jump-game) |
 ## Depth-First Search
 |  |
 | ------- |
